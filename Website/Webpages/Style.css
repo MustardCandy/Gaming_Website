@@ -8,4 +8,16 @@
   text-align: center;
   color: rgb(179,136,103);
   font-size: 35px;
+}.game {
+  text-align: center;
+  color: rgb(205,205,192);
+  font-size: 45px;
+}
+body {
+  background-color: rgb(98,109,113);
+}
+.text {
+  text-align: center;
+  color: rgb(221,189,149);
+  font-size: 15px;
 }
