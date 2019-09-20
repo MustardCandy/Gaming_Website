@@ -2,3 +2,10 @@
           margin-left: auto;
           margin-right: auto;
           width: 20em}
+
+}
+.gamer {
+  text-align: center;
+  color: rgb(179,136,103);
+  font-size: 35px;
+}
