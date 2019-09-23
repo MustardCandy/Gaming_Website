@@ -64,3 +64,23 @@ body {
   outline: dashed 5px navy;
   border-style: inset;
 }
+a {
+  margin: 40px;
+  background-color: #696969; /* Dim-Gray */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  border-bottom-style: double;
+  border-top-style: solid;
+  border-left-style: double;
+  border-right-style: solid;
+  border-right-color: black;
+  border-left-color: white;
+  border-top-color: white;
+  border-bottom-color: black;
+}
