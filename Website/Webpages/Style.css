@@ -59,10 +59,8 @@ body {
 }
 .img1 {
   border-radius: 10px;
-  width: 300px;
-  box-shadow: 0 0 0 5px teal;
-  outline: dashed 5px navy;
-  border-style: inset;
+  height:500%;
+  width: 50%;
 }
 a {
   margin: 40px;
