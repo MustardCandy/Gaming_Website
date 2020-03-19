@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(100, 99.2, 81.6);
+  text-align: center;
+}
+.box {
+  padding: 50px 100px;
+  margin: 100px;
+}
